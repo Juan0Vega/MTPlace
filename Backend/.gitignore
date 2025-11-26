@@ -1,0 +1,11 @@
+# Archivos temporales y de compilación
+bin/
+obj/
+
+# Archivos de configuración de Visual Studio
+*.suo
+*.user
+*.sln.docstate
+
+# Archivos temporales de IDE
+.vs/
